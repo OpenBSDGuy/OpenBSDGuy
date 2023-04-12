@@ -1,71 +1,22 @@
 ## Hi there 👋
 
-It makes sense to use this GitHub feature to add some details about my OpenBSD setup and gradually turn it to a FAQ.
+I've decided to use this GitHub feature to share some details about my OpenBSD setup, and gradually add a FAQ section.
 
 ### Programs I use
 
-#### WM
-
-* i3-gap
-* rofi
-* dunst
-
-#### GUI programs
-
-* firefox
-* pcmanfm
-* audacity
-* kdenlive
-* evince
-* pinta
-* gimp
-* viewnior
-* intellij/pycharm
-
-#### Terminal
-
-* bash
-* alacritty
-
-#### Terminal programs
-
-* tmux with [ohmytmux](https://github.com/gpakosz/.tmux)
-* vim
-    - vundle (plugin manager)
-    - nerdtree (file viewer)
-    - vim-airline (status bar)
-    - jedi-vim (lang syntax check)
-    - vim-markdown (markdown)
-    - vim-fugitive (git branch in status bar)
-    - vim-autoclose (auto close brackets)
-    - clang_complete (c/c++ auto completion)
-* colorls
-* cmixer
-* newsboat
-* fzf
-* mdp
-* mpv
-* pyradio
-* ffmpeg
+- **Window Manager**: i3-gaps, rofi, dunst
+- **GUI Programs**: Firefox, PCManFM, Audacity, Kdenlive, Evince, Pinta, GIMP, Viewnior, IntelliJ, PyCharm
+- **Terminal**: Bash, Alacritty
+- **Terminal Programs**: Tmux with [ohmytmux](https://github.com/gpakosz/.tmux), Colorls, Cmixer, Newsboat, Fzf, Mdp, Mpv, Pyradio, FFmpeg
+- **Vim**: Vundle (Plugin Manager), NERDTree (File Viewer), Vim-airline (Status Bar), Jedi-vim (Language Syntax Check), Vim-markdown (Markdown), Vim-fugitive (Git Branch in Status Bar), Vim-autoclose (Auto Close Brackets), Clang_complete (C/C++ Auto Completion)
 
 ### Hardware
 
-I have quite a few laptops and an ancient desktop computer, but I guess they are very relevant. The important ones are those that run OpenBSD and FreeBSD.
+I have several laptops and an old desktop computer, but they are not all relevant. The important ones are those that run OpenBSD and FreeBSD.
 
-- ThinkPad T480
-  - Intel i5-8350U
-  - 24 GB RAM
-  - OpenBSD 7.3 / Linux Mint
-- ThinkPad T430
-  - Intel i5-3320M
-  - 12 GB RAM
-  - FreeBSD 13.2 / Arch Linux
-
-### FAQ
-
-- TBD
+- **ThinkPad T480**: Intel i5-8350U, 24GB RAM runs OpenBSD 7.3 / Linux Mint
+- **ThinkPad T430**: Intel i5-3320M, 12GB RAM runs FreeBSD 13.2 / Arch Linux
 
 ### Contact
 
-- https://www.youtube.com/@theopenbsdguy
-- <thetheopenbsdguy@gmail.com>
+- <theopenbsdguy@gmail.com>
